@@ -17,7 +17,7 @@
 ---
 ### 💼 Career
 - 🎓 **2022.03 ~ Present**  
-  [Soongsil Univ. – Computer Science and Engineering](https://cse.ssu.ac.kr/))
+  [Soongsil Univ. – Computer Science and Engineering](https://cse.ssu.ac.kr/)
 
 - 🏛️ **2022.03 ~ Present**  
 
@@ -58,5 +58,21 @@
 | 2025.04<br>~ 2025.10 | [**SOOM**](https://github.com/Dongbang-Yeuijiguk/2025ESWContest_smart_3019)<br> | **Wifi Sensing 기반 침실 비서**| `Node-RED` `Python` <br> Backend |
 | 2025.08 | [**POOM**](https://github.com/Soongbang-Yeuijiguk)<br> | **Wifi Sensing 기반 스마트 병실 안전 모니터링 시스템**| Project Manager · Business strategy |
 | 2025.03<br>~ 2025.09 | [**SSCCtal**](https://github.com/SSCC-Library)<br>*(Club Library System)* | **동아리 물품 대여 웹페이지** | `React` `JS` <br> Frontend |
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyi_0226)](https://solved.ac/profile/jyi_0226#)
+
+![jyi0226J's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyi0226&show_icons=true&theme=tokyonight)
+
+<br>
+
+</div>
 
 ---
